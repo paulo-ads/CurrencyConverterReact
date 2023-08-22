@@ -1,7 +1,7 @@
 ![Screenshot](./public/main.png?raw=true "Screenshot")
 # Currency Converter
 
-Currency Converter is an tool that helps you check currencies values and calculate conversions using real-time updated exchange rates from FreeCurrencyAPI!
+This tool helps you check currencies values and calculate conversions using real-time updated exchange rates from FreeCurrencyAPI!
 #
 ### **Adaptive Interface**
 ![Screenshot-Mobile](./public/small-result.png?raw=true "Screenshot")
