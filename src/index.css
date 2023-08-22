@@ -1,0 +1,23 @@
+:root {
+  --primary-color: rgb(73, 120, 173);
+  --secondary-color: #1f6cd1;
+  --tertiary-color: #6540bb;
+}
+
+body {
+	background: radial-gradient(var(--primary-color), var(--secondary-color), var(--tertiary-color), var(--secondary-color));
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
